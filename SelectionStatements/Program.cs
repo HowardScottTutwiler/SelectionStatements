@@ -6,6 +6,7 @@ namespace SelectionStatements
     {
         static void Main(string[] args)
         {
+            //this is the number the user has to guess
             int favoriteNumber = 7;
 
             Console.WriteLine("Guess my favorite number. Hint: less than 10");
